@@ -2,11 +2,6 @@
 
 **Companion code for our JCI 2024 paper on how breast cancers that disseminate to bone marrow acquire aggressive phenotypes through CX43-related tumor-stroma tunnels.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Publication](https://img.shields.io/badge/Published-JCI%202024-blue)](https://doi.org/10.1172/JCI170953)
-[![PMID](https://img.shields.io/badge/PMID-39480488-lightgrey)](https://pubmed.ncbi.nlm.nih.gov/39480488/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-
 ## Overview
 
 This repository contains the code and derived analyses underlying our study of how **estrogen receptor positive (ER+) breast cancer** cells that disseminate to bone marrow acquire aggressive phenotypes through direct contact with **mesenchymal stromal cells (MSCs)**, mediated by **Connexin 43 (CX43, encoded by *GJA1*) tumor-stroma tunnels**.
